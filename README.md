@@ -1,14 +1,17 @@
 # Volume-Adjustment-by-An-Action
+
+## Top of this idea we thought of making more feasibility.making use in such product of Handling to Kitchen Display system and Self-checkout machines without interaction with physical devices etc 
+
 ------------------------------
 Installation Requirements
 ------------------------------
 
-Python
-OpenCV python
-MediaPipe framework 
-Pycaw
-screen_brightness_control
-NumPy
+- Python
+- OpenCV python
+- MediaPipe framework
+- Pycaw
+- screen_brightness_control
+- NumPy
 
 -----------------------------------
 Procedure
